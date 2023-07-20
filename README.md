@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/se0y0ung_-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/se0y0ung.2807-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 
-### 📚ᴠɪᴇᴡ ᴍᴏʀᴇ ᴘᴏʀᴛғᴏʟɪᴏ
-🔗<a href="https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07?pvs=4"><img src="http://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&link=https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07?pvs=4"/></a><br/>
+### 📚ᴠɪᴇᴡ ᴍᴏʀᴇ ᴘᴏʀᴛғᴏʟɪᴏ🏃
+<a href="https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07?pvs=4"><img src="http://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&link=https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07?pvs=4"/></a><br/>
 
 
 ### 🔧ᴛᴏᴏʟ
