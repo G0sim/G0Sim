@@ -1,7 +1,8 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Introduce%20about%20Gosim&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Introduce%20about%20G0sim&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+
 
 <div align="center">
 
@@ -14,7 +15,7 @@
 
 
 ### 📚ᴠɪᴇᴡ ᴍᴏʀᴇ ᴘᴏʀᴛғᴏʟɪᴏ
-<a href="https://www.notion.so/d5220c1dda274516978514866e25feb2"><img src="http://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&link=https://www.notion.so/d5220c1dda274516978514866e25feb2"/></a><br/>
+<a href="https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07"><img src="http://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&link=https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07"/></a><br/>
 
 
 ### 🔧ᴛᴏᴏʟ
@@ -39,6 +40,10 @@
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+
+### 🔗ᴍᴀᴅᴇ ʙʏ ɢ0sɪᴍ
+
 
 <!--
 <hr/>
