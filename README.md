@@ -43,8 +43,9 @@
 
 
 ### 🔗ᴍᴀᴅᴇ ʙʏ ɢ0sɪᴍ
-
-
+<img src="https://img.shields.io/badge/🔗-white?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🔗-white?style=flat-square"/>
 <!--
 <hr/>
 
