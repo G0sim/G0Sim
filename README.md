@@ -15,7 +15,7 @@
 
 
 ### 📚ᴠɪᴇᴡ ᴍᴏʀᴇ ᴘᴏʀᴛғᴏʟɪᴏ
-<a href="https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07"><img src="http://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&link=https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07"/></a><br/>
+🔗<a href="https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07?pvs=4"><img src="http://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&link=https://www.notion.so/29ea38a8c2aa4567b2cf7b33f7b4eb07?pvs=4"/></a><br/>
 
 
 ### 🔧ᴛᴏᴏʟ
