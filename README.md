@@ -27,7 +27,7 @@
 
 ### 📌ᴘʀᴇғᴇʀ
 <img src="https://img.shields.io/badge/JAVA-0078D6?style=flat-square"/>
-<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/ORACLESQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 
