@@ -1,16 +1,49 @@
-### Hi there 👋
+
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Introduce%20about%20Gosim&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+
+<div align="center">
+
+##### 안녕하세요 백엔드 메인에 프론트 한스푼 얹은 병아리개발자🐣입니다 
+<br/>
+
+
+### 🐾ɢᴏsɪᴍ's sᴏᴄɪᴀʟ
+<img src="https://img.shields.io/badge/se0y0ung_-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/se0y0ung.2807-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+
+
+### 📚ᴠɪᴇᴡ ᴍᴏʀᴇ ᴘᴏʀᴛғᴏʟɪᴏ
+<a href="https://www.notion.so/d5220c1dda274516978514866e25feb2"><img src="http://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&link=https://www.notion.so/d5220c1dda274516978514866e25feb2"/></a><br/>
+
+
+### 🔧ᴛᴏᴏʟ
+<img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/INTELLIJ%20IDE-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
+
+
+### 📌ᴘʀᴇғᴇʀ
+<img src="https://img.shields.io/badge/JAVA-0078D6?style=flat-square"/>
+<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLESQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+
+### ✏️ʜᴀᴠᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴡɪᴛʜ
+<img src="https://img.shields.io/badge/MYBATIS-C4242B?style=flat-squar"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-FFD95A?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/DATA%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <!--
-**G0sim/G0Sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![G0sim's GitHub stats](https://github-readme-stats.vercel.app/api?username=G0sim&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G0sim&layout=compact&theme=vue)
+--!>
+</div>
