@@ -21,6 +21,7 @@
 ### 🔧ᴛᴏᴏʟ
 <img src="https://img.shields.io/badge/ECLIPSE%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/INTELLIJ%20IDE-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 
@@ -28,7 +29,7 @@
 ### 📌ᴘʀᴇғᴇʀ
 <img src="https://img.shields.io/badge/JAVA-0078D6?style=flat-square"/>
 <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/ORACLESQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORACLE%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 
 ### ✏️ʜᴀᴠᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴡɪᴛʜ
